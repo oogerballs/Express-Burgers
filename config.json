@@ -1,0 +1,9 @@
+{
+    "pages" : [
+        ["Title","/"],
+        ["Directions","directions"],
+        ["Burgers","burgers"],
+        ["Sides","sides"],
+        ["Desserts","desserts"]
+    ]
+}

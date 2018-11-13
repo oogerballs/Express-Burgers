@@ -1,0 +1,14 @@
+html
+    head
+        link(href="style.css" rel='stylesheet')
+    body
+        header
+            nav
+                ul
+                    each item in config.pages
+                        a(href=item[1]) 
+                            div(class="page_item")
+                                li(id=item[1]) #{item[0]}
+        h1 #{title}
+        block content
+        footer
