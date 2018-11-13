@@ -1,0 +1,23 @@
+{
+  "name": "express-burgers",
+  "version": "0.0.1",
+  "description": "Express Burger project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oogerballs/Express-Burgers.git"
+  },
+  "author": "IxcameyC & HarringtonJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oogerballs/Express-Burgers/issues"
+  },
+  "homepage": "https://github.com/oogerballs/Express-Burgers#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}
