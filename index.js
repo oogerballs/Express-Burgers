@@ -1,5 +1,3 @@
-console.log("This is running");
-
 var express = require('express');
 var pug = require('pug');
 var path = require('path');
