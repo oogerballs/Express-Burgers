@@ -1,6 +1,5 @@
 Font ideas: 
-Allerta Stencil
-Anton
-Righteous
-Permanent Marker
-Archivo Black
+<link href="https://fonts.googleapis.com/css?family=Archivo|Permanent+Marker" rel="stylesheet">
+
+font-family: 'Permanent Marker', cursive;
+font-family: 'Archivo', sans-serif;
