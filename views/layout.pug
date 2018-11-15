@@ -1,9 +1,11 @@
 html
     head
         link(href="style.css" rel='stylesheet')
+        link(href="https://fonts.googleapis.com/css?family=Archivo|Permanent+Marker" rel="stylesheet")
+
     body
         header
-            nav
+            nav(id="NavigationBar")
                 ul
                     each item in config.pages
                         a(href=item[1]) 
