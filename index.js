@@ -16,12 +16,20 @@ app.get('/',function(req,res){
     });
 });
 
+app.get('/directions',function(req,res){
+    res.render('direction',{
+        "title":req.params.name,
+        "config":config
+    });
+});
+
 app.get('/:name',function(req,res){
     res.render('pages',{
         "title":req.params.name,
         "config":config
     });
 });
+
 
 
 app.listen(3000);
