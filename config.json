@@ -1,10 +1,9 @@
 {
     "pages" : [
-        ["Title","/"],
-        ["Burgers","burgers"],
-        ["Sides","sides"],
-        ["Desserts","desserts"],
+        ["Home","/"],
         ["Directions","directions"],
-        ["About","about"]
+        ["Burgers","burgers"],
+        ["Desserts","desserts"],
+        ["Sides","sides"]
     ]
 }
