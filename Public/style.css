@@ -1,23 +1,24 @@
 html{
     background: #FCFFF7;
+    color : #FCFFF7;
 }
 body{
-    background: #A594F9;
+    background: #0958CC;
     padding: 20px;
 }
 .page_item {
     display: inline-block;
-    border: 5px solid #49B1B1;
     font-size: 18;
-    width: 80px;
-    height: 10px;
-    padding: 15px;
+    height: 20px;
+    width: 100PX;
+    padding: 0px 5px;
     text-align: center;
-    transition:font-size 1s;
+    transition:font-size 1s, width 1s;
 }
 .page_item:hover{
     font-size: 24;
-    color: #EF6461;
+    width: 100px;
+    font-weight: bold;
 }
 li {
     list-style: none;
@@ -29,15 +30,16 @@ a {
 }
 
 #content{
-    background: #A594F9;
+    background: #06367D;
 }
 
 #NavigationBar{
+    align-content: center;
     font-family: 'Archivo', sans-serif;
     list-style-type: none;
     margin: 0;
     padding: 0;
-    min-height: 20%;
+    min-height: 40px;
     overflow: hidden;
-    background-color: #49B1B1;
+    background-color: #8C0319;
 }

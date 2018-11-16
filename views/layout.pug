@@ -2,8 +2,6 @@ html
     head
         link(href="style.css" rel='stylesheet')
         link(href="https://fonts.googleapis.com/css?family=Archivo|Permanent+Marker" rel="stylesheet")
-
-    body
         header
             nav(id="NavigationBar")
                 ul
@@ -11,6 +9,9 @@ html
                         a(href=item[1]) 
                             div(class="page_item")
                                 li(id=item[1]) #{item[0]}
+
+    body
+        
         h1 #{title}
         block content
         footer
