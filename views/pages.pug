@@ -3,3 +3,12 @@ extends layout
 block content
     div
         p This is the #{title} page
+    
+    head
+        div
+            ul
+                //- each item in config.food
+                //-     a(href=item[1]) 
+                //-         div(class="food_item")
+                //-             li(id=item[1]) #{item[0]}
+    body

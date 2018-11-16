@@ -5,5 +5,33 @@
         ["Burgers","burgers"],
         ["Desserts","desserts"],
         ["Sides","sides"]
+
+    ],
+    "food" : [
+        [
+            ["Burgers",
+                ["A classic burger with cheese topped with crispy bacon and onion rings.","THE CRISP","The_Crisp.jpg","Crisp"],
+                ["A 6 patty burger with cheese on every slice and lettect tomatos and pickles down below.","THE MONSTER","The_Monster.jpg","Monster"],
+                ["A hamburger topped with cheese and bacon between two glazed donuts.","THE HEART ATTACK","The_heart_attack","HeartAttack"],
+                ["Our custom-blended, ancient-grain-and-quinoa veggie patty is piled high with Swiss cheese, lightly fried, Parmesan-sprinkled mushrooms, tomato bruschetta salsa, fresh avocado slices, roasted garlic aioli and shredded romaine on a whole-grain bun.","VEGGIE BURGER","Veggie_Burger.jpg","VeggieBurger"],
+                ["Our signature burger loaded with Wisconsin cheddar cheese curds, then topped with american cheese and hickory-smoked bacon and finished with cool heat sauce. Served with french fries.","CHEESE CURD BACON BURGER","Cheese_Curd_Bacon_Burger.png","CurdBurger"]
+            ],
+            ["Sides",
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            ["Deserts",
+                [],
+                [],
+                [],
+                [],
+                []
+
+            ]
+        ]
     ]
+    
 }
