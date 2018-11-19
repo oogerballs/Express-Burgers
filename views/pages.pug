@@ -4,11 +4,13 @@ block content
     div
         p This is the #{title} page
     
-    head
+    body
         div
             ul
-                //- each item in config.food
-                //-     a(href=item[1]) 
-                //-         div(class="food_item")
-                //-             li(id=item[1]) #{item[0]}
-    body
+                each item in config.food[page]
+                    a(href=item[4]) 
+                        div(class="food_item")
+                            li(id=item[1]) #{item[1]}
+                                img(src=item[3], alt=item[2])
+                                div(class="Discription")
+                                    p Menu: #{item[0]}

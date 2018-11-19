@@ -55,3 +55,22 @@ p{
     font-size: 35px;
     text-align: center;
 }
+
+.food_item{
+    border: 1px #8C0319 solid;
+    display: inline-block;
+    font-size: 18px;
+    height: 5%;
+    max-width: 200PX;
+    min-width: 200PX;
+    height: 400px;
+    padding: 0px 25px;
+    text-align: center;
+    overflow: auto;
+    transition: height 1s;
+
+}
+
+.Discription{
+   font-size: 5px;
+}
