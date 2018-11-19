@@ -8,9 +8,9 @@ block content
         div
             ul
                 each item in config.food[page]
-                    a(href=item[4]) 
+                    a(href=item[4])
                         div(class="food_item")
-                            li(id=item[1]) #{item[1]}
-                                img(src=item[3], alt=item[2])
-                                div(class="Discription")
-                                    p Menu: #{item[0]}
+                            img(src=item[3], alt=item[2], class="image")
+                            div(class="slider")
+                                div(class="text")
+                                    p #{item[0]}
