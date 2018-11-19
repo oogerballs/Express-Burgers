@@ -8,9 +8,8 @@ block content
         div
             ul
                 each item in config.food[page]
-                    a(href=item[3])
-                        div(class="food_item")
-                            img(src=item[3], alt=item[2], class="image")
-                            //- div(class="slider")
-                            //-     div(class="text")
-                            span #{item[0]}
+                    div(class="food_item")
+                        img(src="Assets/"+item[2], alt=item[3], class="image")
+                        //- div(class="slider")
+                        //-     div(class="text")
+                        span #{item[0]}

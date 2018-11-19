@@ -80,8 +80,8 @@ ul{
     width: 100%;
 }
 .image{
-    height: 150px;
-    width: 150px;
+    height: 250px;
+    width: 250px;
     display: block;
 }
 
@@ -89,7 +89,7 @@ ul{
    font-size: 5px;
 }
 
-/* .slider {
+ .slider {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -99,11 +99,11 @@ ul{
     width: 100%;
     height: 0;
     transition: .5s ease;
-  } */
+  } 
   
   .food_item:hover span {
-      width: 150px;
-      height: 50%;
+      width: 250px;
+      height: 250px;
       display: block;
   }
   
@@ -112,7 +112,7 @@ ul{
       width: 0px;
       height: 0px;
       background-color: #008CBA;
-      transition: display 5s, height 5s, width 5s;
+      bottom: 0;
   }
 
   /* .text {
