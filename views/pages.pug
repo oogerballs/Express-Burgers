@@ -1,8 +1,9 @@
 extends layout
 
 block content
-    div
-        p This is the #{title} page
+    div(id="Home")
+        - var DescType = config.PageTexts[descType][1];
+        P #{DescType}
     
     body
         div
