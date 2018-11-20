@@ -9,32 +9,32 @@
     ],
     "food" : [
             [
-                ["A classic burger with cheese topped with crispy bacon and onion rings.","THE CRISP","The_Crisp.jpg","Crisp"],
-                ["A 6 patty burger with cheese on every slice and lettect tomatos and pickles down below.","THE MONSTER","The_Monster.jpg","Monster"],
+                ["A classic burger with cheese topped with crispy bacon and onion rings then drizzeled with barbecue sauce.","THE CRISP","The_Crisp.jpg","The Crisp"],
+                ["A 6 patty burger with cheese on every slice and lettect tomatos and pickles down below.","THE MONSTER","The_Monster.jpg","The Monster"],
                 ["A hamburger topped with cheese and bacon between two glazed donuts.","THE HEART ATTACK","The_heart_attack.jpg","The Breakfast Burger"],
-                ["Our custom-blended, ancient-grain-and-quinoa veggie patty is piled high with Swiss cheese, lightly fried, Parmesan-sprinkled mushrooms, tomato bruschetta salsa, fresh avocado slices, roasted garlic aioli and shredded romaine on a whole-grain bun.","VEGGIE BURGER","Veggie_Burger.jpg","VeggieBurger"],
-                ["Our signature burger loaded with Wisconsin cheddar cheese curds, then topped with american cheese and hickory-smoked bacon and finished with cool heat sauce. Served with french fries.","CHEESE CURD BACON BURGER","Cheese_Curd_Bacon_Burger.jpg","CurdBurger"]
+                ["Our custom-blended, a veggie patty is piled high with Swiss cheese, lightly fried, Parmesan-sprinkled mushrooms, tomato bruschetta salsa, fresh avocado slices on a whole-grain bun.","VEGGIE BURGER","Veggie_Burger.jpg","Veggie Burger"],
+                ["Our signature burger loaded with Wisconsin cheddar cheese curds, then topped with american cheese and hickory-smoked bacon and finished with cool heat sauce. Served with french fries.","CHEESE CURD BACON BURGER","Cheese_Curd_Bacon_Burger.jpg","The Curd Burger"]
             ],
             [
                 ["Vanille ice cream topped with chocolate syrup, sprinkles, nuts, whip cream and a cherry.","CLASSIC SUNDAE","Classic_Sundae.jpg","Sundae"],
-                ["Strawberry Ice Cream topped with whip cream, nerds, sprinkles, cotton candy, and an assortment of other candies.","UNICORN POOP","Unicorn_Poop.jpg","Unicorn"],
-                ["A Chocolate Chip Cookie Topped with vanilla ice cream, hot fudge.","SKILLET CHOCOLATE CHIP COOKIE A LA MODE","Cookies_and_Creme_chocolate_cake.jpg","ChocolateCake"],
-                ["Chocolate cake with a molten chocolate center, topped with vanilla ice cream in a chocolate shell. Big enough to share, too good to actually do it.","MOLTEN CHOCOLATE CAKE","Molten_Chocolate_Cake.jpg","MoltenCake"],
-                ["Modern twist on classic Sicilian cannoli, three cannoli shells are dipped in dark and white chocolate and stuffed with Blue Bunny Pistachio Almond, Chocolate and Super Premium Vanilla Bean Ice Cream and sprinkled with nuts.","ICE CREAM CANNOLIS","3_Ice_Cream_Cannolis.jpg","Cannolis"]
+                ["Strawberry Ice Cream topped with whip cream, nerds, sprinkles, cotton candy, and an assortment of other candies.","UNICORN POOP","Unicorn_Poop.jpg","Unicorn Poop"],
+                ["A Chocolate Chip Cookie topped with vanilla ice cream and hot fudge.","SKILLET CHOCOLATE CHIP COOKIE A LA MODE","Cookies_and_Creme_chocolate_cake.jpg","Cookie A La Mode"],
+                ["Chocolate cake with a molten chocolate center, topped with vanilla ice cream in a chocolate shell. Big enough to share, too good to actually do it.","MOLTEN CHOCOLATE CAKE","Molten_Chocolate_Cake.jpg","Molten Chocolate Lava Cake"],
+                ["Three cannoli shells are dipped in dark and white chocolate and stuffed with Blue Bunny Pistachio Almond, Chocolate and Super Premium Vanilla Bean Ice Cream and sprinkled with nuts.","ICE CREAM CANNOLIS","3_Ice_Cream_Cannolis.jpg","Cannolis"]
             ],
             [
-                ["Crunchy dill pickle slices are cornmeal-breaded, fried and served with our southwestern ranch dressing.","FRIED PICKLES","Fried_Pickles.jpg","Pickles"],
+                ["Crunchy dill pickle slices are cornmeal-breaded, fried and served with our southwestern ranch dressing.","FRIED PICKLES","Fried_Pickles.jpg","Deep-Fried Pickles"],
                 ["Julienne strips of heads of broccoli, carrots and red cabbage.","VEGGIE SLAW","Veggie_Slaw.jpg","Slaw"],
-                ["Warm tortilla chips are paired with our own house-blended salsa in this timeless classic.","CHIPS AND SALSA","Chips_and_Salsa.jpg","ChipsAndSalsa"],
-                ["Classic fried onion rings","ONION RINGS","Onion_Rings.jpg","OnionRings"],
-                ["Straight cut fries smothed in a cheese of your choice then mounted with bacon.","BACON CHEESE FRIES","Bacon_Cheese_Fries.jpg","Fries"]
+                ["Warm tortilla chips are paired with our own house-blended salsa in this timeless classic.","CHIPS AND SALSA","Chips_and_Salsa.jpg","Chips And Salsa"],
+                ["Classic fried onion rings.","ONION RINGS","Onion_Rings.jpg","Onion Rings"],
+                ["Straight cut fries smothed in a cheese of your choice then mounted with bacon.","BACON CHEESE FRIES","Bacon_Cheese_Fries.jpg","Loaded Fries"]
 
             ]
     ],
     "PageTexts" : [
-        ["burgers","Our burgers aren't the ordinary run of the mill burgers. A strange place needs strange food so thats why we chose only the top of the food chain. These burgers were made to put you to the test so pick your posion and see if you can keep up."],
-        ["desserts","Still craving for more? Well these sweet monsters will finish the job. FFight the urge of devouring the cookies and creams cake, swim in the lava lake of molten chocolate, or find a rare creature...'s droppings. We've got the sweets so here's to hoping you've got the tooth."],
-        ["sides","Sometimes, you really just can't beat the classics. Pickles, Onion rings, loaded fries and more. We just wanted to make sure that you felt at home with these sides."]
+        ["burgers","Our burgers aren't the ordinary run of the mill burgers. A strange place needs strange food so that's why we chose only the top of the food chain. These burgers were made to put you to the test, so pick your posion and see if you can keep up."],
+        ["desserts","Still craving for more? Well these sweet monsters will finish the job. Fight the urge of devouring the cookies and creams cake, swim in the lava lake of molten chocolate, or find a rare creature's.... droppings. We've got the sweets so here's to hoping you've got the tooth."],
+        ["sides","Sometimes, you really just can't beat the classics. Fried pickles, onion rings, loaded fries and more. We just wanted to make sure that you felt at home with these sides."]
     ]
     
 }
