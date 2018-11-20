@@ -30,6 +30,11 @@
                 ["Straight cut fries smothed in a cheese of your choice then mounted with bacon.","BACON CHEESE FRIES","Bacon_Cheese_Fries.jpg","Fries"]
 
             ]
+    ],
+    "PageTexts" : [
+        ["burgers","Our burgers aren't the ordinary run of the mill burgers. A strange place needs strange food so thats why we chose only the top of the food chain. These burgers were made to put you to the test so pick your posion and see if you can keep up."],
+        ["desserts","Still craving for more? Well these sweet monsters will finish the job. FFight the urge of devouring the cookies and creams cake, swim in the lava lake of molten chocolate, or find a rare creature...'s droppings. We've got the sweets so here's to hoping you've got the tooth."],
+        ["sides","Sometimes, you really just can't beat the classics. Pickles, Onion rings, loaded fries and more. We just wanted to make sure that you felt at home with these sides."]
     ]
     
 }
