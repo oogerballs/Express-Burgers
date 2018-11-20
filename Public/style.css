@@ -111,6 +111,8 @@ ul{
     height: 250px;
     width: 250px;
     display: block;
+    box-shadow: 10px 15px 30px #000;
+
 }
 
 .Discription{
