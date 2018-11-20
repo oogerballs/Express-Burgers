@@ -1,6 +1,7 @@
 extends layout
 
 block content
+    h1 #{title}
     div(id="Home")
         - var DescType = config.PageTexts[descType][1];
         P #{DescType}
