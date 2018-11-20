@@ -2,14 +2,14 @@ extends layout
 
 block content
     div
-        p This is the #{title} page
+        //- p This is the #{title} page
     
     body
-        div
+        div.food_list
             ul
                 each item in config.food[page]
-                    div(class="food_item")
+                    div.food_item
                         img(src="Assets/"+item[2], alt=item[3], class="image")
-                        //- div(class="slider")
-                        //-     div(class="text")
-                        span #{item[0]}
+                        .food_title #{item[1]}
+                        .desc 
+                            p.food_text #{item[0]}
