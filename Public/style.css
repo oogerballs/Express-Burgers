@@ -90,6 +90,8 @@ ul{
 }
 
  .slider {
+    margin-left: 5px;
+    margin-bottom: 5px;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -101,7 +103,7 @@ ul{
     transition: .5s ease;
   } 
   
-  .food_item:hover span {
+  .food_item:hover .slider {
       width: 250px;
       height: 250px;
       display: block;
@@ -115,14 +117,17 @@ ul{
       bottom: 0;
   }
 
-  /* .text {
+  .text {
+    text-align: center;
     white-space: nowrap; 
     color: white;
-    font-size: 20px;
+    font-size: 10px;
     position: absolute;
-    overflow: hidden;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-  } */
+    overflow: auto;
+    max-width: 250px;
+    max-height: 250px;
+    /* top: 50%;
+    left: 50%; */
+    /* transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%); */
+  }
